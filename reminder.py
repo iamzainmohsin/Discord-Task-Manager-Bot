@@ -93,10 +93,10 @@ class Reminder:
 
         # Intervals for different frequencies (in seconds)
         intervals = {
-            "Hourly Reminder": 60,  # 3600
-            "Every 4 Hours": 120,  # 14400
-            "Daily Reminder": 180,  # 86400
-            "Weekly Reminder": 240,  # 604800
+            "Hourly Reminder": 3600,  # 3600
+            "Every 4 Hours": 14400,  # 14400
+            "Daily Reminder": 86400,  # 86400
+            "Weekly Reminder": 604800,  # 604800
         }
         interval = intervals.get(frequency, None)
 

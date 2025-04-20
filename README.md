@@ -177,5 +177,5 @@ This project is open-source. You may use and modify it as needed.
 
 ---
 
-Have fun using your Discord Task Manager Bot!
+Have fun!
 
